@@ -45,3 +45,9 @@ In addition to the basic features mentioned above, this project also supports th
 - **Merchant Reputation Analysis**: Incorporate data about merchants' reputation, including reviews, ratings, and transaction history, to identify potentially suspicious merchants involved in fraudulent transactions.
 - **Geographical Location Analysis**: Utilize geographical information such as IP addresses or GPS coordinates to detect discrepancies between the location of the transaction and the customer's usual location.
 - **Network Analysis**: Perform network analysis to identify connections between different entities involved in transactions (e.g., customers, merchants) and detect organized fraudulent activities such as collusion or money laundering.
+
+## Made By
+
+- Nitin
+- Saksham
+- Rohit
